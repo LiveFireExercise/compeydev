@@ -6,7 +6,7 @@ I'm a JavaScript and TypeScript engineer, with experience in multiple other lang
 
 ---
 <a>
-  <img width="40%" src="https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=true&idleMessage=Idle%20%20at%20the%20moment...&hideDiscrim=true" align="right" />
+  <img width="40%" src="https://lanyard-profile-readme.vercel.app/api/561987403037016114?hideTimestamp=true&idleMessage=Idle%20%20at%20the%20moment...&hideDiscrim=true" align="right" />
 </a>
 
 
